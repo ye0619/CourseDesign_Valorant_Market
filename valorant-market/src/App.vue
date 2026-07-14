@@ -4,7 +4,7 @@
     <div class="top-nav">
       <div class="container nav-container">
         <div class="brand" @click="$router.push('/')" style="cursor: pointer">
-          <span class="logo">🔥 孙荣振的课程设计</span>
+          <span class="logo">🔥 课程设计</span>
           <span class="game">Valorant</span>
         </div>
 
