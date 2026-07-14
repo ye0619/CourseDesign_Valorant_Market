@@ -11,8 +11,7 @@ import java.sql.PreparedStatement;
 
 public class DataInitializer {
 
-    // 🔴 记得确认这里的密码是对的
-    private static final String DB_PASSWORD = ">!lOz_#vf3N7";
+    private static final String DB_PASSWORD = "";
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/valorant_db?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&useSSL=false";
     private static final String DB_USER = "root";
